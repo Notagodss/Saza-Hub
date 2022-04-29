@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local Window = Library.CreateLib("Script Hub -- By Sinner2222", "BloodTheme")
+local Window = Library.CreateLib("Script Hub -- By Clayarch", "BloodTheme")
 local Tab = Window:NewTab("Main")
 local Section = Tab:NewSection("StupidShit")
 Section:NewButton("Please Join My Discord", "Press To Copy Invitation to Clipboard", function ()
@@ -24,6 +24,6 @@ local Section = Tab:NewSection("Press To Load Script(WAIT 25 SEC AFTER CLICK)")
 Section:NewButton("PetSimX SCRIPT", "PRESS FOR SCRIPT", function()
     loadstring(game:HttpGet"https://scriptblox.com/raw/SAZA-HUB_496")()
     wait (30)
-    _G.AuthKey = "f1285e76-ea03-4425-9a40-b59fb4d9cc9d"
+    _G.AuthKey = "3ec0a236-dc14-467f-8d1c-de2dab2247b3"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RobIoxScripts/GUI/main/load.lua"))()
 end)
